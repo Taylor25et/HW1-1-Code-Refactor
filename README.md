@@ -5,3 +5,6 @@ I started by cleaning up the div tags and replaced them with sections tags inste
 
 Then I added alt tags to all my images. Lines 30, 37, 44, 54, 61, 68
 
+
+Screenshots:
+![Screen Shot One.png](/Users/taylorthompson/Desktop/UW_Coding_Bootcamp/HOMEWORK/HW1-1-Code-Refactor/Screen Shot One.png)
